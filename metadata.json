@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Store",
+  "description": "Premium e-commerce Telegram Web App inspired by Apple and Nike, featuring a Sophisticated Dark theme, seamless shopping experience, and interactive admin analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
